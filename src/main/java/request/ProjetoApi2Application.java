@@ -1,4 +1,4 @@
-package com.example.ProjetoApi2;
+package request;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
